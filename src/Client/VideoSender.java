@@ -41,7 +41,7 @@ public class VideoSender extends  Thread{
         exit = false;
         Webcam webcam =null;
         try {
-            //webcam = Webcam.getDefault();
+            webcam = Webcam.getDefault();
             
            
             // USB Camera 0
@@ -49,7 +49,7 @@ public class VideoSender extends  Thread{
             // ManyCam Virtual Webcam 2
 
             
-             if(cr.username.equals("aman"))
+           /*  if(cr.username.equals("aman"))
              webcam = Webcam.getWebcamByName("DroidCam Source 3 3");
              
              else
@@ -62,7 +62,7 @@ public class VideoSender extends  Thread{
                   System.out.println("webcam is null : " + cr.username); 
                   
              }
-             
+             */
              
             //  Webcam webcam = Webcam.getDefault();
             //webcam.setViewSize(new Dimension(908, 357));

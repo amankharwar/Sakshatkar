@@ -3,20 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/JavaProject/SakshatkarTest/src/Client/Clientreceiver.java</file>
-            <file>file:/D:/JavaProject/SakshatkarTest/src/Server/Audiothread.java</file>
-            <file>file:/D:/JavaProject/SakshatkarTest/src/Client/Videowindow.java</file>
-            <file>file:/D:/JavaProject/SakshatkarTest/src/Server/Videothread.java</file>
-            <file>file:/D:/JavaProject/SakshatkarTest/src/Client/VideoReceiver.java</file>
-            <file>file:/D:/JavaProject/SakshatkarTest/src/Client/Mainwindow.java</file>
-            <file>file:/D:/JavaProject/SakshatkarTest/src/Client/VideoSender.java</file>
-            <file>file:/D:/JavaProject/SakshatkarTest/src/Client/Signup.java</file>
-            <file>file:/D:/JavaProject/SakshatkarTest/src/Common/SignupInfo.java</file>
-            <file>file:/D:/JavaProject/SakshatkarTest/src/Server/MyConnection.java</file>
-            <file>file:/D:/JavaProject/SakshatkarTest/src/Server/Clienthandler.java</file>
-            <file>file:/D:/JavaProject/SakshatkarTest/src/Server/Serverfile.java</file>
-            <file>file:/D:/JavaProject/SakshatkarTest/src/Client/Approval.java</file>
-            <file>file:/D:/JavaProject/SakshatkarTest/src/Client/Login.java</file>
+            <file>file:/D:/JavaProject/Sakshatkar/src/Client/Approval.java</file>
+            <file>file:/D:/JavaProject/Sakshatkar/src/Client/StartApproval.java</file>
         </group>
     </open-files>
 </project-private>

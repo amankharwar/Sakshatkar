@@ -39,6 +39,7 @@ public class StartApproval implements  Runnable{
             av = new Approval(oos,ooi,from,username,cr);
              av.friendname.setText(from);
           av.setVisible(true);
+          
         } catch (ClassNotFoundException ex) {
             Logger.getLogger(StartApproval.class.getName()).log(Level.SEVERE, null, ex);
         } catch (InstantiationException ex) {
